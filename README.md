@@ -1,8 +1,11 @@
 
 # Demo - Local Repo
-
-hi
-
+-
+-
+-
+-
+-
+-
 How to:
 
 1) run cmd:  git status
