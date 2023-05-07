@@ -1,11 +1,5 @@
 
 # Demo - Local Repo
--
--
--
--
--
--
 How to:
 *
 *
