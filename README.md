@@ -19,7 +19,7 @@ At this point you would want to push this into Github, but before you can you ne
 6)Get the SSH key
 7) run cmd git remote add origin <SSH key>
 8) run cmd: git remote -v (this allows you to see any remote repositories that you have connected) to this repo
-9) now you can run cmd: git push origin master
+9) now you can run cmd: git push origin main
 10) to set a default directory to push to:
-	run cmd: git push -u origin master
+	run cmd: git push -u origin main
 
