@@ -1,10 +1,5 @@
-
 # Demo - Local Repo
-How to:
-*
-*
-*
-*
+ How to:
 1) run cmd:  git status
 You can see info regarding any untracked files
 2) Now to add any untracked files, you can either do:
